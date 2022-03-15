@@ -1,7 +1,5 @@
 .header-img {
     background-image: url("../assets/img/tomyung.png");
-    height: 50%;
+    height: 450px;
     z-index: -10;
-    
-
 }
